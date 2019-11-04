@@ -11,7 +11,7 @@ class WysiwygAssets extends \luya\web\Asset
 
     public $js = [
         'js/directives.js',
-        'js/langs/pl.js',
+        'js/langs/de.js',
     ];
 
     public $depends = [
